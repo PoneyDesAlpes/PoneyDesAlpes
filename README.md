@@ -44,4 +44,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PoneyDesAlpes&theme=gruvbox_duo&border_radius=10)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoneyDesAlpes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PoneyDesAlpes&theme=tokyonight)
