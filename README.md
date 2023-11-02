@@ -25,7 +25,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=cs,py,java,js,html,css,dart,flutter,arduino,unity,visualstudio,idea,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,java,js,html,css,tailwind,react,express,nodejs,dart,flutter,arduino,unity,visualstudio,idea,raspberrypi,firebase)](https://skillicons.dev)
 ---
 
 ### :fire: My Stats:
